@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeZone", "TimeZone\TimeZone.csproj", "{E0838F3D-1341-4E3B-8DF5-C39614ED859E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeZone.UITests", "TimeZone.UITests\TimeZone.UITests.csproj", "{5662DC21-E68A-4EB8-BB0E-9CD6985423B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0838F3D-1341-4E3B-8DF5-C39614ED859E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0838F3D-1341-4E3B-8DF5-C39614ED859E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0838F3D-1341-4E3B-8DF5-C39614ED859E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0838F3D-1341-4E3B-8DF5-C39614ED859E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5662DC21-E68A-4EB8-BB0E-9CD6985423B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5662DC21-E68A-4EB8-BB0E-9CD6985423B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5662DC21-E68A-4EB8-BB0E-9CD6985423B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5662DC21-E68A-4EB8-BB0E-9CD6985423B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
